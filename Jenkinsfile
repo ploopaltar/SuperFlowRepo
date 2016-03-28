@@ -1,1 +1,1 @@
-echo 'hello from Pipeline this is the updated version'
+echo 'hello from Pipeline this is the updated'
